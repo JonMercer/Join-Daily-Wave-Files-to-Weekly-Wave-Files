@@ -5,7 +5,7 @@ Visit [JonathanMercer.com](http://www.jonathanmercer.com) for more information
 
 Concatenates multiple .wav files based on the week they were created. Used for merging daily audio journals into weekly audio journals.
 
-**Use Case: ** You record a daily journal and you want to merge them by week for easy listening in the future. Similar to a podcast.
+**Use Case:** You record a daily journal and you want to merge them by week for easy listening in the future. Similar to a podcast.
 
 
 
