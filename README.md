@@ -8,7 +8,7 @@ Use Case:
 You record a daily journal and you want to merge them by week for easy listening in the future. Similar to a podcast.
 
 
-Visit [JonathanMercer.com](jonathanmercer.com) for more information
+Visit [JonathanMercer.com](http://www.jonathanmercer.com) for more information
 
 
 
